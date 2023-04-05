@@ -44,11 +44,12 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 
 # Experiment :
-![WhatsApp Image 2023-04-05 at 11 29 32](https://user-images.githubusercontent.com/121369281/229994053-223d9cb8-8275-4ad6-8bbe-3e0ba2947bcd.jpg)
+![WhatsApp Image 2023-04-05 at 11 34 17](https://user-images.githubusercontent.com/121369281/229994809-a6230d77-d961-4fb7-b168-c65bf6321e63.jpg)
+
 
 
 # Program :
-'''
+```
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L);M=max(L)
